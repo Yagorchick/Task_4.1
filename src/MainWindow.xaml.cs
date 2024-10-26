@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Task_4_Iwanov_Egor
+namespace ProgrammingBase_Iwanov_Tatymov
 {
     /// <summary>
     /// Логика взаимодействия для MainWindow.xaml
@@ -25,36 +25,133 @@ namespace Task_4_Iwanov_Egor
             InitializeComponent();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        //Вывод суммы всех чисел между числами А и В
+        private void Button1_Click(object sender, RoutedEventArgs e)
         {
-            this.Hide();
-            Window Window1 = new Window1();
-            Window1.Closed += (s, args) => this.Close();
-            Window1.Show();
+            int A, B;
+            if (int.TryParse(NumA.Text, out A) && int.TryParse(NumB.Text, out B))
+            {
+                int sum = 0;
+                for (int i = A + 1; i < B; i++)
+                {
+                    sum += i;
+                }
+                textLabel.Text = sum.ToString();
+            }
+            else
+            {
+                MessageBox.Show("Введите корректные значения A и B", "Ошибка ввода", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
         }
 
-        private void Button_Click_1(object sender, RoutedEventArgs e)
+        //Вывод только нечетных чисел между числами А и В
+        private void Button1_1_Click(object sender, RoutedEventArgs e)
         {
-            this.Hide();
-            Window Window2 = new Window2();
-            Window2.Closed += (s, args) => this.Close();
-            Window2.Show();
+            int A, B;
+            if (int.TryParse(NumA.Text, out A) && int.TryParse(NumB.Text, out B))
+            {
+                string oddNumbers = "";
+                for (int i = A + 1; i < B; i++)
+                {
+                    if (i % 2 != 0)
+                    {
+                        oddNumbers += i + " ";
+                    }
+                }
+                textLabel.Text = oddNumbers.ToString();
+            }
+            else
+            {
+                MessageBox.Show("Введите корректные значения A и B", "Ошибка ввода", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
         }
 
-        private void Button_Click_2(object sender, RoutedEventArgs e)
+        //Квадраты чисел от А до В
+        private void Button2_Click(object sender, RoutedEventArgs e)
         {
-            this.Hide();
-            Window Window3 = new Window3();
-            Window3.Closed += (s, args) => this.Close();
-            Window3.Show();
+            int A, B;
+            if (int.TryParse(NumA.Text, out A) && int.TryParse(NumB.Text, out B))
+            {
+                for (int i = A; i <= B; i++)
+                {
+                    int square = i * i;
+                    MessageBox.Show($"Квадрат числа {i} равен {square}");
+                }
+            }
+            else
+            {
+                MessageBox.Show("Введите корректные значения A и B", "Ошибка ввода", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
         }
 
-        private void Button_Click_3(object sender, RoutedEventArgs e)
+        //Сумма всех чисел между А и В, включая их самих
+        private void Button3_Click(object sender, RoutedEventArgs e)
         {
-            this.Hide();
-            Window Window4 = new Window4();
-            Window4.Closed += (s, args) => this.Close();
-            Window4.Show();
+            int A, B;
+            if (int.TryParse(NumA.Text, out A) && int.TryParse(NumB.Text, out B))
+            {
+                int sum = 0;
+
+                for (int i = 1; i <= B; i++)
+                {
+                    sum += i;
+                }
+
+                textLabel.Text = sum.ToString();
+            }
+            else
+            {
+                MessageBox.Show("Введено некорректное значение B", "Ошибка ввода", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+        }
+
+        //Расчёт начисление Премии, в зависимости от Выслуги Лет
+        private void Button4_Click(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                double salary = Convert.ToDouble(ZPCount.Text);
+                int yearsOfService = Convert.ToInt32(YearAgo.Text);
+
+                double prize = PrizeCalculate(salary, yearsOfService);
+                textLabel1.Text = $"{prize:C}";
+            }
+            catch (FormatException)
+            {
+                MessageBox.Show("Пожалуйста, введите корректные значения.", "Ошибка ввода", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+        }
+
+        private double PrizeCalculate(double salary, int yearsOfService)
+        {
+            double prizePercentage;
+
+            if (yearsOfService < 5)
+            {
+                prizePercentage = 0.10;
+            }
+            else if (yearsOfService < 10)
+            {
+                prizePercentage = 0.15;
+            }
+            else if (yearsOfService < 15)
+            {
+                prizePercentage = 0.25;
+            }
+            else if (yearsOfService < 20)
+            {
+                prizePercentage = 0.35;
+            }
+            else if (yearsOfService < 25)
+            {
+                prizePercentage = 0.45;
+            }
+            else
+            {
+                prizePercentage = 0.50;
+            }
+
+            return salary * prizePercentage;
         }
     }
 }

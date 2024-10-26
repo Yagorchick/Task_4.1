@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace Task_4_Iwanov_Egor
+namespace ProgrammingBase_Iwanov_Tatymov
 {
     /// <summary>
     /// Логика взаимодействия для App.xaml

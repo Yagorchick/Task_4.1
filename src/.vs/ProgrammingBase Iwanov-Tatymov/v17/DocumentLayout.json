@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chris\\Desktop\\ProgrammingBase Iwanov-Tatymov\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02E73BF1-0B07-44C4-B0AA-D43403874E19}|ProgrammingBase Iwanov-Tatymov.csproj|C:\\Users\\chris\\Desktop\\ProgrammingBase Iwanov-Tatymov\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{02E73BF1-0B07-44C4-B0AA-D43403874E19}|ProgrammingBase Iwanov-Tatymov.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E73BF1-0B07-44C4-B0AA-D43403874E19}|ProgrammingBase Iwanov-Tatymov.csproj|c:\\users\\chris\\desktop\\programmingbase iwanov-tatymov\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E73BF1-0B07-44C4-B0AA-D43403874E19}|ProgrammingBase Iwanov-Tatymov.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\ProgrammingBase Iwanov-Tatymov\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\ProgrammingBase Iwanov-Tatymov\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-26T10:13:55.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\ProgrammingBase Iwanov-Tatymov\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\ProgrammingBase Iwanov-Tatymov\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAUwH4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:13:55.184Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

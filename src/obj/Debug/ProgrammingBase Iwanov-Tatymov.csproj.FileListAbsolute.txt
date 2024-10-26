@@ -1,0 +1,51 @@
+C:\Users\user\Desktop\24IS11-2\Programming Base\ProgrammingBase Iwanov-Tatymov\bin\Debug\ProgrammingBase Iwanov-Tatymov.exe.config
+C:\Users\user\Desktop\24IS11-2\Programming Base\ProgrammingBase Iwanov-Tatymov\bin\Debug\ProgrammingBase Iwanov-Tatymov.exe
+C:\Users\user\Desktop\24IS11-2\Programming Base\ProgrammingBase Iwanov-Tatymov\bin\Debug\ProgrammingBase Iwanov-Tatymov.pdb
+C:\Users\user\Desktop\24IS11-2\Programming Base\ProgrammingBase Iwanov-Tatymov\obj\Debug\ProgrammingBase Iwanov-Tatymov.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\24IS11-2\Programming Base\ProgrammingBase Iwanov-Tatymov\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\24IS11-2\Programming Base\ProgrammingBase Iwanov-Tatymov\obj\Debug\Page1.g.cs
+C:\Users\user\Desktop\24IS11-2\Programming Base\ProgrammingBase Iwanov-Tatymov\obj\Debug\App.g.cs
+C:\Users\user\Desktop\24IS11-2\Programming Base\ProgrammingBase Iwanov-Tatymov\obj\Debug\ProgrammingBase Iwanov-Tatymov_MarkupCompile.cache
+C:\Users\user\Desktop\24IS11-2\Programming Base\ProgrammingBase Iwanov-Tatymov\obj\Debug\ProgrammingBase Iwanov-Tatymov_MarkupCompile.lref
+C:\Users\user\Desktop\24IS11-2\Programming Base\ProgrammingBase Iwanov-Tatymov\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\24IS11-2\Programming Base\ProgrammingBase Iwanov-Tatymov\obj\Debug\Page1.baml
+C:\Users\user\Desktop\24IS11-2\Programming Base\ProgrammingBase Iwanov-Tatymov\obj\Debug\ProgrammingBase Iwanov-Tatymov.g.resources
+C:\Users\user\Desktop\24IS11-2\Programming Base\ProgrammingBase Iwanov-Tatymov\obj\Debug\ProgrammingBase_Iwanov_Tatymov.Properties.Resources.resources
+C:\Users\user\Desktop\24IS11-2\Programming Base\ProgrammingBase Iwanov-Tatymov\obj\Debug\ProgrammingBase Iwanov-Tatymov.csproj.GenerateResource.cache
+C:\Users\user\Desktop\24IS11-2\Programming Base\ProgrammingBase Iwanov-Tatymov\obj\Debug\ProgrammingBase Iwanov-Tatymov.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\24IS11-2\Programming Base\ProgrammingBase Iwanov-Tatymov\obj\Debug\ProgrammingBase Iwanov-Tatymov.exe
+C:\Users\user\Desktop\24IS11-2\Programming Base\ProgrammingBase Iwanov-Tatymov\obj\Debug\ProgrammingBase Iwanov-Tatymov.pdb
+C:\Users\user\Desktop\24IS11-2\ProgrammingBase Iwanov-Tatymov\bin\Debug\ProgrammingBase Iwanov-Tatymov.exe.config
+C:\Users\user\Desktop\24IS11-2\ProgrammingBase Iwanov-Tatymov\bin\Debug\ProgrammingBase Iwanov-Tatymov.exe
+C:\Users\user\Desktop\24IS11-2\ProgrammingBase Iwanov-Tatymov\bin\Debug\ProgrammingBase Iwanov-Tatymov.pdb
+C:\Users\user\Desktop\24IS11-2\ProgrammingBase Iwanov-Tatymov\obj\Debug\ProgrammingBase Iwanov-Tatymov.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\24IS11-2\ProgrammingBase Iwanov-Tatymov\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\24IS11-2\ProgrammingBase Iwanov-Tatymov\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\24IS11-2\ProgrammingBase Iwanov-Tatymov\obj\Debug\Page1.g.cs
+C:\Users\user\Desktop\24IS11-2\ProgrammingBase Iwanov-Tatymov\obj\Debug\App.g.cs
+C:\Users\user\Desktop\24IS11-2\ProgrammingBase Iwanov-Tatymov\obj\Debug\ProgrammingBase Iwanov-Tatymov_MarkupCompile.cache
+C:\Users\user\Desktop\24IS11-2\ProgrammingBase Iwanov-Tatymov\obj\Debug\ProgrammingBase Iwanov-Tatymov_MarkupCompile.lref
+C:\Users\user\Desktop\24IS11-2\ProgrammingBase Iwanov-Tatymov\obj\Debug\Page1.baml
+C:\Users\user\Desktop\24IS11-2\ProgrammingBase Iwanov-Tatymov\obj\Debug\ProgrammingBase Iwanov-Tatymov.g.resources
+C:\Users\user\Desktop\24IS11-2\ProgrammingBase Iwanov-Tatymov\obj\Debug\ProgrammingBase_Iwanov_Tatymov.Properties.Resources.resources
+C:\Users\user\Desktop\24IS11-2\ProgrammingBase Iwanov-Tatymov\obj\Debug\ProgrammingBase Iwanov-Tatymov.csproj.GenerateResource.cache
+C:\Users\user\Desktop\24IS11-2\ProgrammingBase Iwanov-Tatymov\obj\Debug\ProgrammingBase Iwanov-Tatymov.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\24IS11-2\ProgrammingBase Iwanov-Tatymov\obj\Debug\ProgrammingBase Iwanov-Tatymov.exe
+C:\Users\user\Desktop\24IS11-2\ProgrammingBase Iwanov-Tatymov\obj\Debug\ProgrammingBase Iwanov-Tatymov.pdb
+C:\Users\chris\Desktop\ProgrammingBase Iwanov-Tatymov\bin\Debug\ProgrammingBase Iwanov-Tatymov.exe.config
+C:\Users\chris\Desktop\ProgrammingBase Iwanov-Tatymov\bin\Debug\ProgrammingBase Iwanov-Tatymov.exe
+C:\Users\chris\Desktop\ProgrammingBase Iwanov-Tatymov\bin\Debug\ProgrammingBase Iwanov-Tatymov.pdb
+C:\Users\chris\Desktop\ProgrammingBase Iwanov-Tatymov\obj\Debug\ProgrammingBase Iwanov-Tatymov.csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\ProgrammingBase Iwanov-Tatymov\obj\Debug\MainWindow.baml
+C:\Users\chris\Desktop\ProgrammingBase Iwanov-Tatymov\obj\Debug\MainWindow.g.cs
+C:\Users\chris\Desktop\ProgrammingBase Iwanov-Tatymov\obj\Debug\Page1.g.cs
+C:\Users\chris\Desktop\ProgrammingBase Iwanov-Tatymov\obj\Debug\App.g.cs
+C:\Users\chris\Desktop\ProgrammingBase Iwanov-Tatymov\obj\Debug\ProgrammingBase Iwanov-Tatymov_MarkupCompile.cache
+C:\Users\chris\Desktop\ProgrammingBase Iwanov-Tatymov\obj\Debug\ProgrammingBase Iwanov-Tatymov_MarkupCompile.lref
+C:\Users\chris\Desktop\ProgrammingBase Iwanov-Tatymov\obj\Debug\Page1.baml
+C:\Users\chris\Desktop\ProgrammingBase Iwanov-Tatymov\obj\Debug\ProgrammingBase Iwanov-Tatymov.g.resources
+C:\Users\chris\Desktop\ProgrammingBase Iwanov-Tatymov\obj\Debug\ProgrammingBase_Iwanov_Tatymov.Properties.Resources.resources
+C:\Users\chris\Desktop\ProgrammingBase Iwanov-Tatymov\obj\Debug\ProgrammingBase Iwanov-Tatymov.csproj.GenerateResource.cache
+C:\Users\chris\Desktop\ProgrammingBase Iwanov-Tatymov\obj\Debug\ProgrammingBase Iwanov-Tatymov.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\ProgrammingBase Iwanov-Tatymov\obj\Debug\ProgrammingBase Iwanov-Tatymov.exe
+C:\Users\chris\Desktop\ProgrammingBase Iwanov-Tatymov\obj\Debug\ProgrammingBase Iwanov-Tatymov.pdb
